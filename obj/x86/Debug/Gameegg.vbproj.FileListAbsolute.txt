@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\bin\Debug\Gameegg.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\bin\Debug\Gameegg.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\bin\Debug\Gameegg.xml
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\obj\x86\Debug\Gameegg.Main.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\obj\x86\Debug\Gameegg.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\obj\x86\Debug\Gameegg.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\obj\x86\Debug\Gameegg.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\obj\x86\Debug\Gameegg.xml
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\obj\x86\Debug\Gameegg.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\obj\x86\Debug\Gameegg.Daftar.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\obj\x86\Debug\Gameegg.Home.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\obj\x86\Debug\Gameegg.Awal.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\obj\x86\Debug\Gameegg.Telor.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\obj\x86\Debug\Gameegg.Peringkat.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Gameegg\Gameegg\obj\x86\Debug\Gameegg.Beranda.resources
